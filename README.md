@@ -1,8 +1,6 @@
 # keiko-corp
 The greatest company ever created
 
-[letrus ios](letrus://)
+<a href="letrus://">Letrus IOS</a>
 
-[teste](#)
-
-[letrus android](letrus://student)
+<a href="letrus://student">Letrus Android</a>
